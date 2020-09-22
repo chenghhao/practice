@@ -4,7 +4,7 @@ class day1 {
        int lenth=s.length();
        for(int i=0;i<lenth;i++){
            if(true){
-
+                System.out.println("day1 practice");
            }
 
 
