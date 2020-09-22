@@ -5,6 +5,7 @@ class day1 {
        for(int i=0;i<lenth;i++){
            if(true){
                 System.out.println("day1 practice");
+                System.out.println("day2 practice");
            }
 
 
